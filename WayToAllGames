@@ -1,0 +1,3 @@
+if game.PlaceId == 5534891288 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexCode2122/SCPproject/main/ScpProject",true))();
+end
